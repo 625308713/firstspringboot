@@ -1,0 +1,6 @@
+#默认使用配置
+spring:
+  profiles:
+    active: dev
+
+
